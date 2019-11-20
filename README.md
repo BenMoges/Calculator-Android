@@ -1,2 +1,2 @@
-# IOS-Calculator
-Calculator for Apple Iphone
+# Android-Calculator
+Calculator for Android
